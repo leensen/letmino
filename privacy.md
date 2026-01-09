@@ -1,10 +1,10 @@
-# Privacy Policy – Mentori Study
+# Privacy Policy – letmino Study
 
 **Last updated:** January 2026
 
 ## Overview
 
-Mentori Study respects your privacy.  
+letmino Study respects your privacy.  
 The app is designed to minimize data usage and does not collect personal data for analytics, advertising, or tracking purposes.
 
 Some features optionally use external AI services to process learning content provided by the user.
@@ -13,7 +13,7 @@ Some features optionally use external AI services to process learning content pr
 
 ## Data Collection
 
-Mentori Study does **not** collect or store personal user information such as names, email addresses, account details, or device identifiers.
+letmino Study does **not** collect or store personal user information such as names, email addresses, account details, or device identifiers.
 
 - No account creation  
 - No advertising  
@@ -78,7 +78,7 @@ This data never leaves your device unless you explicitly use AI features.
 
 ## Third-Party Services
 
-Mentori Study does **not** use:
+letmino Study does **not** use:
 
 - advertising networks  
 - analytics tools  
@@ -90,7 +90,7 @@ The only third-party interaction is the **optional AI processing** initiated by 
 
 ## Children’s Privacy
 
-Mentori Study is suitable for children.
+letmino Study is suitable for children.
 
 - The app does not knowingly collect personal data from children  
 - AI features process learning content only, not personal information  
@@ -114,13 +114,13 @@ https://github.com/leensen
 
 ---
 
-# 🇳🇱 Privacybeleid – Mentori Study
+# 🇳🇱 Privacybeleid – letmino Study
 
 **Laatst bijgewerkt:** januari 2026
 
 ## Overzicht
 
-Mentori Study respecteert uw privacy.  
+letmino Study respecteert uw privacy.  
 De app is ontworpen om datagebruik te minimaliseren en verzamelt geen persoonsgegevens voor advertenties, analytics of tracking.
 
 Sommige functies maken **optioneel** gebruik van externe AI-diensten om leermateriaal te verwerken dat door de gebruiker wordt aangeleverd.
@@ -201,7 +201,7 @@ De enige externe communicatie betreft **optionele AI-verwerking** op verzoek van
 
 ## Privacy van kinderen
 
-Mentori Study is geschikt voor kinderen.
+letmino Study is geschikt voor kinderen.
 
 - De app verzamelt geen persoonsgegevens  
 - AI-verwerking betreft uitsluitend leermateriaal  
